@@ -1,1 +1,16 @@
-# Weather-Data-Scraper-Analyzer
+# Weather Data Scraper & Analyzer
+
+## Objective
+Fetch weather data using an API and analyze it using Python.
+
+## Tools Used
+- Python
+- Requests
+- Pandas
+- Matplotlib
+
+## Features
+- Weather Data Collection
+- CSV Storage
+- Data Analysis
+- Visualization
